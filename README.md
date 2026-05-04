@@ -1,4 +1,4 @@
-/*# Pokédex
+# Pokédex
 
 Simple React + TypeScript app that uses the public [PokéAPI](https://pokeapi.co/)
 to display the first 50 Pokémon as a list of cards.
